@@ -14,7 +14,7 @@ Maximum of 4 members per team can participate in DNB Hackathon.
 
 <br>
 
-<h3><b>How many team members can I have in a team?</b></h3>
+<h3><b>Who can register a team for Hackathon?</b></h3>
 Discuss with your team members and select a team leader among your team. Team leader will be responsible for registering the team. Team leader will be first point of contact to the Hackathon management team for any communication or queries.
 
 <br>
