@@ -14,6 +14,16 @@ Maximum of 4 members per team can participate in DNB Hackathon.
 
 <br>
 
+<h3><b>How many team members can I have in a team?</b></h3>
+Discuss with your team members and select a team leader among your team. Team leader will be responsible for registering the team. Team leader will be first point of contact to the Hackathon management team for any communication or queries.
+
+<br>
+
+<h3><b>Do I have to form a team within my own department?</b></h3>
+No. You can form a team with members from any Division or Department.
+
+<br>
+
 <h3><b>What should I focus on for the Hackathon event?</b></h3>
 You have two weeks to tackle the problem you selected and then we need from you a clear description of your solution where it is important that you tackle:
 <div>
@@ -40,7 +50,7 @@ You can fill up the registration form again with the team members. Choose option
 
 <br>
 
-<h3><b>What if I have any other queries?</b></h3>
+<h3><b>Whom should I contact for any further queries?</b></h3>
 
 If you have any queries, or facing any difficulties in completing the registration form,
-please email to our dedicated mailbox: <mark><b>{{ site.mailbox_address }}</b></mark> and <mark><b>johannes.krebbers@digital-nasional.com.my</b></mark> 
+please email to our dedicated Hackathon management team: <mark><b>{{ site.mailbox_address }}</b></mark> and <mark><b>johannes.krebbers@digital-nasional.com.my</b></mark> 
