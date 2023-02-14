@@ -1,5 +1,5 @@
 ---
-title: Frequently asked questions
+title: FAQ
 menu_icon: journal-code
 ---
 
@@ -9,7 +9,7 @@ Look at the <a href="{{ site.baseurl }}{% link projects.md %}" style="color:yell
 
 <br>
 
-<h3><b>How many team members can have in a team?</b></h3>
+<h3><b>How many team members can I have in a team?</b></h3>
 Maximum of 4 members per team can participate in DNB Hackathon.
 
 <br>

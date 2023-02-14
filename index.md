@@ -6,7 +6,7 @@ menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, in association with the Digital Nasional Berhad
+# {{ site.event_date }}
 <!-- REMOVE THIS SECTION when you use this template -->
 <div class="lead" markdown="1" style="color: #17479E;">
 This Hackathon is organized by [Digital Nasional Berhad](https://www.digital-nasional.com.my/),
