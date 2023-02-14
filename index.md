@@ -9,8 +9,8 @@ menu_icon: house-door
 # {{ site.event_date }}, in association with the Digital Nasional Berhad
 <!-- REMOVE THIS SECTION when you use this template -->
 <div class="lead" markdown="1" style="color: #17479E;">
-This hackathon is organized by [Digital Nasional Berhad](https://www.digital-nasional.com.my/),
-for DNB Internal Staff.
+This Hackathon is organized by [Digital Nasional Berhad](https://www.digital-nasional.com.my/),
+for DNB's internal activity.
 
 </div>
 <!-- END of section to remove -->
@@ -57,7 +57,7 @@ for DNB Internal Staff.
 <section>
 <div class="wrapper">
 <div>
-<h3> Rules for joining the DNB Hackathon</h3>
+<h3><b>Rules for joining the DNB Hackathon</b></h3>
 <p>1. All participants have to be DNB employees.</p>
 <p>2. Participants can join more than one team. Nonetheless, if the participant is selected in the top three winners, the participant will get only one prize.</p>
 <p>3. When registering a team, the team leader must fill in the required information of the team members in the registration form of DNB Hackathon program along with the selected problem statement.</p>
@@ -71,12 +71,12 @@ for DNB Internal Staff.
 </div>
 <br>
 <div>
-<h3>Problem Statements</h3>
-Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a>
+<h4><b>Problem Statements</b></h4>
+Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a> page.
 </div>
 <div>
 <br>
-<h3>Q/A</h3>
+<h4><b>Q/A</b></h4>
 For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
 </div>
 </div>
@@ -108,7 +108,7 @@ For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %
 <div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #159957;">
 <section>
 <div class="wrapper">
-<h3> Prizes for Top 3 Teams</h3>
+<h3><b>Prizes for Top 3 Teams</b></h3>
 <u2 class="grid">
 
 <li class="imag" markdown="1">
