@@ -111,21 +111,21 @@ For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %
 <h3><b>Prizes for Top 3 Teams</b></h3>
 <u2 class="grid">
 
-<li class="imag" markdown="1">
+<li class="imag" markdown="1" style="text-align: center">
 {% include imagedisplay.html title="First Prize" image="first.png" %}
 
 <p><b>Samsung Galaxy A73 5G</b></p>
 <p>(RRP: RM 2099)</p>
 </li>
 
-<li class="imag" markdown="1">
+<li class="imag" markdown="1" style="text-align: center">
 {% include imagedisplay.html title="Second Prize" image="second.png" %}
 
 <p><b>Realme Pad X</b></p>
 <p>(RRP: RM 1699)</p>
 </li>
 
-<li class="imag" markdown="1">
+<li class="imag" markdown="1" style="text-align: center">
 {% include imagedisplay.html title="Third Prize" image="third.png" %}
 
 <p><b>Samsung Galaxy A23 5G</b></p>
