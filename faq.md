@@ -43,4 +43,4 @@ You can fill up the registration form again with the team members. Choose option
 <h3><b>What if I have any other queries?</b></h3>
 
 If you have any queries, or facing any difficulties in completing the registration form,
-please email to our dedicated mailbox: <mark><b>{{ site.mailbox_address }}</b></mark>
+please email to our dedicated mailbox: <mark><b>{{ site.mailbox_address }}</b></mark> and <mark><b>johannes.krebbers@digital-nasional.com.my></b></mark> 
