@@ -62,7 +62,7 @@ for DNB's internal activity.
 <p>2. Participants can join more than one team. Nonetheless, if the participant is selected in the top three winners, the participant will get only one prize.</p>
 <p>3. When registering a team, the team leader must fill in the required information of the team members in the registration form of DNB Hackathon program along with the selected problem statement.</p>
 <p>4. Teams selected as the first, second or third place winners will be rewarded with a prize.</p>
-<p>5. A 5-member Jury panel (50% external and 50% internal) will decide on the winners selection.</p>
+<p>5. A 5-member Jury panel (partly external and partly internal) will decide on the winners selection.</p>
 <p>6. The Jury will short-list 10 finalists and the top 3 will be selected as winners.</p> 
 <p>7. The proposed solution must be on Powerpoint slides with max of 8 slides (excluding cover slide).</p>
 <p>8. Do make sure that your solution is uploaded before the DNB Hackathon submission deadline; Submission after the deadline will not be entertained.</p>
