@@ -58,13 +58,16 @@ for DNB Internal Staff.
 <div class="wrapper">
 <div>
 <h3> Rules for joining the DNB Hackathon</h3>
-<p>1.	All team members have to be on the DNB payroll (permanent or contractor).</p>
-<p>2.	Participants can join more than one team if they are willing to. In the case, if a participant is qualified for more than one team in top three, he/she will get only one prize.</p>
-<p>3.	When registering a team, team leader must fill the rquired information of the team members in the registration form of DNB Hackathon program along with the selected problem statement.</p>
-<p>4.	Teams obtaining first, second or third place only get a prize.</p>
-<p>5.	A 5 member Jury (50% external and 50% internal) will decide on the 10 teams having to present for the Jury and the subsequent teams one, two and three.</p>
-<p>6.	Your proposed solution must be on slides (Powerpoint) with max of 8 slides (excluding cover slide).</p>
-<p>7.	Do make sure that your solution is uploaded before the DNB Hackathon submission deadline; If not, then your solution will be excluded.</p>
+<p>1. All participants have to be DNB employees.</p>
+<p>2. Participants can join more than one team. Nonetheless, if the participant is selected in the top three winners, the participant will get only one prize.</p>
+<p>3. When registering a team, the team leader must fill in the required information of the team members in the registration form of DNB Hackathon program along with the selected problem statement.</p>
+<p>4. Teams selected as the first, second or third place winners will be rewarded with a prize.</p>
+<p>5. A 5-member Jury panel (50% external and 50% internal) will decide on the winners selection.</p>
+<p>6. The Jury will short-list 10 finalists and the top 3 will be selected as winners.</p> 
+<p>7. The proposed solution must be on Powerpoint slides with max of 8 slides (excluding cover slide).</p>
+<p>8. Do make sure that your solution is uploaded before the DNB Hackathon submission deadline; Submission after the deadline will not be entertained.</p>
+<p>9. The decision made by the Jury panel is final.</p>
+
 </div>
 <br>
 <div>
