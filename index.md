@@ -77,7 +77,7 @@ Detailed list of problems statements can be found in <a href="{{ site.baseurl }}
 <div>
 <br>
 <h4><b>Q/A</b></h4>
-For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
+For futher enquiries, you may refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
 </div>
 </div>
 </section>

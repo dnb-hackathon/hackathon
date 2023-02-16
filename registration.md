@@ -42,7 +42,7 @@ Team leader to choose their squad of maximum four members and register to the Ha
 
   <div>
   <h4><b>Q/A</b></h4>
-  For futher enquiries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
+  For futher enquiries, you may refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
   </div>
 </div>
 </section>
