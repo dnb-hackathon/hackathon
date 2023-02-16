@@ -72,7 +72,7 @@ for DNB's internal activity.
 <br>
 <div>
 <h4><b>Problem Statements</b></h4>
-Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a> page.
+Detailed list of problems statements can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a> page.
 </div>
 <div>
 <br>

@@ -1,5 +1,5 @@
 ---
-title: Hackathon registration
+title: Hackathon Registration
 menu_title: Registration
 menu_icon: clipboard-check
 event_status:
@@ -35,14 +35,14 @@ Team leader to choose their squad of maximum four members and register to the Ha
 
   <div>
   <h4><b>Problem Statements</b></h4>
-  Detailed list of problems statemens can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a> page.
+  Detailed list of problems statements can be found in <a href="{{ site.baseurl }}{% link projects.md %}"><b>Problem Statements</b></a> page.
   </div>
 
 <br>
 
   <div>
   <h4><b>Q/A</b></h4>
-  For futher queries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
+  For futher enquiries, you can refer to <a href="{{ site.baseurl }}{% link faq.md %}"><b>FAQ</b></a> page.
   </div>
 </div>
 </section>

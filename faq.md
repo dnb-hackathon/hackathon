@@ -5,7 +5,7 @@ menu_icon: journal-code
 
 <h3><b>How do I join a team?</b></h3>
 
-Look at the <a href="{{ site.baseurl }}{% link projects.md %}" style="color:yellow"><b>Problem Statements</b></a> page and choose the one you prefer to participate. Talk to the staff who are willing to take part for the same problem statement and goto <a href="{{ site.baseurl }}{% link registration.md %}" style="color:yellow"><b>Registration</b></a> page to signup the team.
+Look at the <a href="{{ site.baseurl }}{% link projects.md %}" style="color:yellow"><b>Problem Statements</b></a> page and choose the one you prefer to participate. Talk to the staff who are willing to take part for the same problem statement and go to the <a href="{{ site.baseurl }}{% link registration.md %}" style="color:yellow"><b>Registration</b></a> page to signup the team.
 
 <br>
 
@@ -15,7 +15,7 @@ Maximum of 4 members per team can participate in DNB Hackathon.
 <br>
 
 <h3><b>Who can register a team for Hackathon?</b></h3>
-Discuss with your team members and select a team leader among your team. Team leader will be responsible for registering the team. Team leader will be first point of contact to the Hackathon management team for any communication or queries.
+Discuss with your team members and select a team leader amongst your team. Team leader will be responsible for registering the team. Team leader will be first point of contact to the Hackathon management team for any communication or queries.
 
 <br>
 
@@ -46,7 +46,7 @@ DNB Hackathon website will enable an option to upload your solution from <b>23 F
 <br>
 
 <h3><b>How do I change team members after the registration is completed?</b></h3>
-You can fill up the registration form again with the team members. Choose option "No" for Question no 2 in the registration form. Try to eliminate duplicate entries if possible.
+You can fill up the registration form again with the team members. Choose option "No" for Question No. 2 in the registration form. Try to eliminate duplicate entries if possible.
 
 <br>
 
