@@ -24,7 +24,7 @@ for DNB's internal activity.
         {% if site.registration_status == "soon" or site.registration_status == "open" or site.registration_status == "demo" %}
             <dt>{{ site.registration_opens_date }}</dt>
             <dd>
-                Applications open for registration<br>
+                Applications Open for Registration<br>
                 {% if site.registration_status == 'open' %}
                     <a href="{{ site.baseurl }}{% link registration.md %}" class="btn">Register now</a>
                 {% elsif site.registration_status == 'closed' %}
@@ -36,13 +36,13 @@ for DNB's internal activity.
         {% endif %}
 
         <dt>{{ site.registration_closes_date }}</dt>
-        <dd>Applications close</dd>
+        <dd>Applications Close</dd>
 
         <dt>{{ site.submission_date }}</dt>
         <dd>Submission Timeline</dd>
 
         <dt>{{ site.team_semifinal_announcement }}</dt>
-        <dd>Announcement of top 10 teams for Jury Pitch Presentation</dd>
+        <dd>Announcement of Top 10 Teams for Jury Pitch Presentation</dd>
 
         <dt>{{ site.pitch_presentation }}</dt>
         <dd>Jury Pitch Presentation</dd>
@@ -58,15 +58,14 @@ for DNB's internal activity.
 <div class="wrapper">
 <div>
 <h3><b>Rules for joining the DNB Hackathon</b></h3>
-<p>1. All participants have to be DNB employees.</p>
-<p>2. Participants can join more than one team. Nonetheless, if the participant is selected in the top three winners, the participant will get only one prize.</p>
-<p>3. When registering a team, the team leader must fill in the required information of the team members in the registration form of DNB Hackathon programme along with the selected problem statement.</p>
-<p>4. Teams selected as the first, second or third place winners will be rewarded with a prize.</p>
-<p>5. A 5-member Jury panel (partly external and partly internal) will decide on the winners selection.</p>
-<p>6. The Jury will short-list 10 finalists and the top 3 will be selected as winners.</p> 
-<p>7. The proposed solution must be on Powerpoint slides with max of 8 slides (excluding cover slide).</p>
-<p>8. Do make sure that your solution is uploaded before the DNB Hackathon submission deadline; Submission after the deadline will not be entertained.</p>
-<p>9. The decision made by the Jury panel is final.</p>
+<p>1. Participation is only open to DNB employees. The first-, second-, and third-placed winning teams will be rewarded with prizes.</p>
+<p>2. Participants are allowed to join multiple teams. However, they are only eligible for one prize if more than one of their teams are selected as the top three winners. In this case, they will receive the prize from the higher-placed team (e.g., if the participant is a member of teams that placed 2nd and 3rd, they will receive the prize for the team placed 2nd).</p>
+<p>3. Every team leader is to complete the registration form for their respective teams for the DNB Hackathon program, which will include information of all team members and the team’s chosen problem statement.</p>
+<p>4. Each team is to upload their submissions before the DNB Hackathon submission deadline. Only one submission per team is allowed, and any submissions after the deadline will not be considered.</p>
+<p>5. Every team’s submission must be presented on a maximum of 8 PowerPoint slides (excluding the cover slide).</p>
+<p>6. A panel of five judges (both internal and external) will be responsible for selecting the winners.</p> 
+<p>7. The judges will first narrow down the selection to 10 finalists. These 10 finalists will be invited for a Jury Pitch Presentation session, of which the top 3 will be chosen as the winners.</p>
+<p>8. The decision made by the panel of judges is final.</p>
 
 </div>
 <br>
