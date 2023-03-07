@@ -40,7 +40,7 @@ You have two weeks to tackle the problem you selected and then we need from you 
 <br>
 
 <h3><b>How do I submit the solution?</b></h3>
-DNB Hackathon website will enable an option to upload your solution from <b>01 March 2023</b>. Do look out for the announcement emails and follow the instructions accordingly. 
+DNB Hackathon website will enable an option to upload your solution from <b>14 March 2023</b>. Do look out for the announcement emails and follow the instructions accordingly. 
 
 
 <br>
