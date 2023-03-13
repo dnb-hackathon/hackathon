@@ -42,7 +42,7 @@ for DNB's internal activity.
         <dd>Submission Timeline</dd>
 
         <dt>{{ site.team_semifinal_announcement }}</dt>
-        <dd>Announcement of Top 10 Teams for Jury Pitch Presentation</dd>
+        <dd>Review of Submissions by Judges</dd>
 
         <dt>{{ site.pitch_presentation }}</dt>
         <dd>Jury Pitch Presentation</dd>
