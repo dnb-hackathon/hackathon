@@ -91,9 +91,9 @@ For futher enquiries, you may refer to <a href="{{ site.baseurl }}{% link faq.md
 <p><b>stand a chance to win amazing prizes!</b></p>
 
 
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=VUIF41YjAU2H6BEeteoS4LGYf9e_wDFGo65PpU1kp0pUMFJHMVROTlZWQ1IwMVlNWTlJWUhaRE83Ty4u" target="_blank">
+<a href="https://forms.office.com/r/cHi7NXApVS" target="_blank">
 <button class="favorite styled" type="button">
-    Register Your Team
+    Submit Your Work
 </button>
 </a>
 </div>
