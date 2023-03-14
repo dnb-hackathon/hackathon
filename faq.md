@@ -5,8 +5,10 @@ menu_icon: journal-code
 
 <h3><b>How do I join a team?</b></h3>
 
-Look at the <a href="{{ site.baseurl }}{% link projects.md %}" style="color:yellow"><b>Problem Statements</b></a> page and choose the one you prefer to participate. Talk to the staff who are willing to take part for the same problem statement and go to the <a href="{{ site.baseurl }}{% link registration.md %}" style="color:yellow"><b>Registration</b></a> page to signup the team.
+<!--Look at the <a href="{{ site.baseurl }}{% link projects.md %}" style="color:yellow"><b>Problem Statements</b></a> page and choose the one you prefer to participate. Talk to the staff who are willing to take part for the same problem statement and go to the <a href="{{ site.baseurl }}{% link registration.md %}" style="color:yellow"><b>Registration</b></a> page to signup the team.
+-->
 
+Registration is now closed.
 <br>
 
 <h3><b>How many team members can I have in a team?</b></h3>
@@ -40,7 +42,7 @@ You have two weeks to tackle the problem you selected and then we need from you 
 <br>
 
 <h3><b>How do I submit the solution?</b></h3>
-DNB Hackathon website will enable an option to upload your solution from <b>14 March 2023</b>. Do look out for the announcement emails and follow the instructions accordingly. 
+You can navigate to Submission tab in DNB Hackathon website and click on "Submit Your Work" button. This will navigate to a form, and team leader should be able to upload the file using this form.
 
 
 <br>
