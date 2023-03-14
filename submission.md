@@ -8,18 +8,16 @@ event_status:
 
 {:.lead style="color: #17479E;"}
 Participation is open to all DNB Internal Staff. {% if site.registration_status
-== "soon" or site.registration_status == "demo" %}Registration opens on
-{{ site.registration_opens_date }}.{% endif %} The closing date for registering a team 
-is {{ site.registration_closes_date }}.
+== "soon" or site.registration_status == "demo" %}Registration is now closed. {% endif %}  
+Submission Timeline is {{ site.submission_date }} and do submit your work before the deadline.
 
 
 <div class="page-content" aria-label="Content" style="background: white; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: justify; text-justify: inter-word; color: #159957;">
 <section>
 <div class="wrapper">
-This virtual event will require participants to register to the
-Hackathon Event which will take part from {{ site.event_date }}.
+Hackathon Event will take part from {{ site.event_date }}.
 
-Team leader to choose their squad of maximum four members and register to the Hackathon. Team leader will fill the form including his/her details along with the team members details.
+Team leader to submit their team work to the Hackathon. Team leader will fill the form including team name, his/her details and to upload the file in PPT format.
 
 
   <div style="font-size: 32px; text-align: center; margin: 20px">
